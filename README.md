@@ -1,6 +1,8 @@
 ## Hi there 👋, we are Environmental Exposure & Epidemiology Lab at the University of Michigan School of Public Health.
 Our research is focused on advancing existing knowledge by utilizing state-of-the-art exposure biomarkers and molecular epidemiological techniques. Researching exposures and health impacts in various life stages in the US and internationally.
 
+<img width="700" height="130" alt="image" src="https://github.com/user-attachments/assets/5f5011f3-a649-4a43-92db-6d7777f51b6d" />
+
 <!-- Grid container -->
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
 
