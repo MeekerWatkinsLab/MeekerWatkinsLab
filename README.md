@@ -1,3 +1,23 @@
-## Hi there 👋, we are Environmental Exposure & Epidemiology Lab.
-Welcome to the GitHub of the Meeker-Watkins Lab at the University of Michigan School of Public Health.
-We are the Environmental Exposure and Epidemiology Lab in the Department of Environmental Health Sciences at the University of Michigan School of Public Health.
+## Hi there 👋, we are Environmental Exposure & Epidemiology Lab at the University of Michigan School of Public Health.
+Our research is focused on advancing existing knowledge by utilizing state-of-the-art exposure biomarkers and molecular epidemiological techniques. Researching exposures and health impacts in various life stages in the US and internationally.
+
+<!-- Grid container -->
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
+
+  <!-- Each card -->
+  <div style="background: #f5f5f5; border: 1px solid #e0e0e0; border-radius: 8px; padding: 14px 16px;">
+    <p style="font-size: 11px; text-transform: uppercase; color: #888; margin-bottom: 6px;">Focus</p>
+    <p style="font-size: 14px;">Exposure biomarkers & molecular epidemiology</p>
+  </div>
+
+  <div style="background: #f5f5f5; border: 1px solid #e0e0e0; border-radius: 8px; padding: 14px 16px;">
+    <p style="font-size: 11px; text-transform: uppercase; color: #888; margin-bottom: 6px;">Scope</p>
+    <p style="font-size: 14px;">Life stages · US & global populations</p>
+  </div>
+
+  <div style="background: #f5f5f5; border: 1px solid #e0e0e0; border-radius: 8px; padding: 14px 16px;">
+    <p style="font-size: 11px; text-transform: uppercase; color: #888; margin-bottom: 6px;">Goal</p>
+    <p style="font-size: 14px;">Linking environmental exposures to health outcomes</p>
+  </div>
+
+</div>
